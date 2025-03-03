@@ -1,0 +1,17 @@
+{
+  "name": "economic-calendar",
+  "version": "1.0.0",
+  "description": "Economic Calendar with FXStreet API integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.6.0"
+  }
+} 
