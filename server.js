@@ -6,7 +6,7 @@ const app = express();
 const port = 3000;
 
 // Gemini API configuration
-const GEMINI_API_KEY = 'AIzaSyDs1WquHLOg1F6NVR02caXXAqw9a6HnDjI';
+const GEMINI_API_KEY = 'xxxxx';
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 // Serve static files from the root directory
